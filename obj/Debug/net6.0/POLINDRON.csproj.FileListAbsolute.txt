@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\POLINDRON\POLINDRON\bin\Debug\net6.0\POLINDRON.exe
+C:\Users\user\source\repos\POLINDRON\POLINDRON\bin\Debug\net6.0\POLINDRON.deps.json
+C:\Users\user\source\repos\POLINDRON\POLINDRON\bin\Debug\net6.0\POLINDRON.runtimeconfig.json
+C:\Users\user\source\repos\POLINDRON\POLINDRON\bin\Debug\net6.0\POLINDRON.dll
+C:\Users\user\source\repos\POLINDRON\POLINDRON\bin\Debug\net6.0\POLINDRON.pdb
+C:\Users\user\source\repos\POLINDRON\POLINDRON\obj\Debug\net6.0\POLINDRON.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\POLINDRON\POLINDRON\obj\Debug\net6.0\POLINDRON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\POLINDRON\POLINDRON\obj\Debug\net6.0\POLINDRON.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\POLINDRON\POLINDRON\obj\Debug\net6.0\POLINDRON.AssemblyInfo.cs
+C:\Users\user\source\repos\POLINDRON\POLINDRON\obj\Debug\net6.0\POLINDRON.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\POLINDRON\POLINDRON\obj\Debug\net6.0\POLINDRON.dll
+C:\Users\user\source\repos\POLINDRON\POLINDRON\obj\Debug\net6.0\refint\POLINDRON.dll
+C:\Users\user\source\repos\POLINDRON\POLINDRON\obj\Debug\net6.0\POLINDRON.pdb
+C:\Users\user\source\repos\POLINDRON\POLINDRON\obj\Debug\net6.0\POLINDRON.genruntimeconfig.cache
+C:\Users\user\source\repos\POLINDRON\POLINDRON\obj\Debug\net6.0\ref\POLINDRON.dll
